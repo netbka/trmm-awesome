@@ -91,7 +91,7 @@ Install your own RustDesk Server as an alternative to MeshCentral
 
 #### Local Commander
 
-Lets an AI assistant (ChatGPT, Claude, Cursor or any MCP client) work on computers you approve: files, Git, commands, local services. Open-source local server: [local-commander-mcp-agent](https://github.com/netbka/local-commander-mcp-agent).
+Give your AI hands on every computer you manage. Ask ChatGPT, Claude, Cursor or any MCP client to find out why a server is crawling, update a batch of PCs or sort out one user's laptop, all from one chat and without opening a remote session. Open-source local server: [local-commander-mcp-agent](https://github.com/netbka/local-commander-mcp-agent).
 
 <https://localcmd.app>
 
